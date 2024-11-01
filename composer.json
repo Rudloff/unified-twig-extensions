@@ -2,6 +2,7 @@
   "name": "drupal-pattern-lab/unified-twig-extensions",
   "description": "Share Pattern Lab's custom Twig extensions with Drupal 8.",
   "type": "drupal-module",
+  "license": "MIT",
   "support": {
     "source": "https://github.com/drupal-pattern-lab/unified-twig-extensions.git"
   },
